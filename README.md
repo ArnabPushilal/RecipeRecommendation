@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1-M5xKI-3sL0a6SBmRwT_Lo08BoJVdTOT?usp=sha
 
 extracting.py --> Contains the code to scrape ingredients
 
-recommender.ipynb --> Contains ad-hoc type code which produces figures, recommends healthy recipes etc
+recommender.ipynb --> Contains ad-hoc type code which produces figures, recommends healthy recipes, generate embeddings, EDA etc
 
 
 
