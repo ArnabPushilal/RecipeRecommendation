@@ -30,4 +30,5 @@ dataloader.py --> Contains pytorch dataloaders for the models
 
 test_model.py --> Script for testing the models.
 
+userstudy/ contains the responses from test users rating both models
 
