@@ -13,5 +13,7 @@ A brief description of the python files:
 
 
 models.py --> Contains all the pytorch models
+
 train.py --> Scripts for training each model
+
 run_2.py --> Used to run and test each model (Models commented out in __main__, to run please uncomment the one to be run)
