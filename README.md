@@ -9,7 +9,12 @@ https://drive.google.com/drive/folders/1qCbKiIDnJ7m1JwnkYhzOKWYcIULVh-vP?usp=sha
 Other files like the embeddings, similarity dictionary are present in this folder:
 https://drive.google.com/drive/folders/1-M5xKI-3sL0a6SBmRwT_Lo08BoJVdTOT?usp=sharing
 
-A brief description of the python files:
+## A brief description of the python files:
+
+extracting.py --> Contains the code to scrape ingredients
+
+recommender.ipynb --> Contains ad-hoc type code which produces figures, recommends healthy recipes etc
+
 
 
 models.py --> Contains all the pytorch models
