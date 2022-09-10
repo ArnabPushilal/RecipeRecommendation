@@ -26,6 +26,8 @@ train.py --> Scripts for training each model
 
 run_2.py --> Used to run and test each model (Models commented out in __main__, to run please uncomment the one to be run)
 
+utils.py --> Contains utilty functions like scraping recipes, computing health scores 
+
 dataloader.py --> Contains pytorch dataloaders for the models
 
 test_model.py --> Script for testing the models.
