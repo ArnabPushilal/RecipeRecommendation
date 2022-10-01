@@ -98,9 +98,10 @@ def run(train_path,val_path,test_path,model_ob,trainer,tester,model_name,learnin
        testload,
        batch_size=12)
  
-#  
+#Code for non-MF model (uncomment for non-mf models)
 #  model=model_ob(3705,256,45276,8450)
 
+# Code for MF model (Use this when training MF based models or uncomment the model=model_ob above)
  try:
     isinstance(model_ob(1,1,1,False),MF) 
     model=model_ob(3705,45276,256,bias=True)
